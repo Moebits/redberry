@@ -1,0 +1,22 @@
+{
+    "name": "redberry",
+    "displayName": "Redberry",
+    "description": "A cute red/pink/blue color theme. ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Redberry",
+                "uiTheme": "vs-dark",
+                "path": "./themes/redberry-color-theme.json"
+            }
+        ]
+    },
+    "tokenColors": "https://raw.githubusercontent.com/Colorsublime/Colorsublime-Themes/master/themes/GitHub_Dark.tmTheme"
+}
