@@ -12,6 +12,7 @@
 		"activityBarBadge.background": "#ff31c1",
 		"sideBarTitle.foreground": "#ff83e0",
 		"sideBar.background": "#0a0a0a",
+		"sideBar.foreground": "#ff69f7",
 		"sideBar.border": "#080808",
 		"sideBarSectionHeader.background": "#050505",
 		"button.background": "#ff46e0",
@@ -33,16 +34,18 @@
 		"titleBar.activeBackground":"#0e0707",
 		"list.inactiveSelectionBackground": "#050505",
 		"list.inactiveSelectionForeground": "#fa5fff",
-		"list.warningForeground": "#4ec7ff",
+		"list.warningForeground": "#6dc9ff",
 		"list.activeSelectionForeground": "#ff5cf1",
 		"list.hoverBackground": "#111111",
 		"list.hoverForeground": "#ff3cf5",
-		"list.invalidItemForeground": "#3ba0ff",
+		"list.invalidItemForeground": "#5bb5ff",
 		"tab.activeForeground": "#ff6adf",
 		"tab.inactiveForeground": "#ff6ae6b4",
 		"menu.foreground": "#ff86d7",
 		"titleBar.activeForeground": "#ff5ddc",
 		"titleBar.inactiveForeground":"#ff85e5",
+		"terminal.foreground": "#f265ff",
+		"settings.textInputForeground": "#ff60ff"
 	},
 	"tokenColors": [
 		{
