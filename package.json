@@ -7,6 +7,11 @@
     "engines": {
         "vscode": "^1.35.0"
     },
+    "icon": "./images/packagegirl.png",
+    "galleryBanner": {
+        "color": "#FF6BBF",
+        "theme": "dark"
+    },
     "categories": [
         "Themes"
     ],
