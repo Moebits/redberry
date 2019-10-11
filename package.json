@@ -3,11 +3,11 @@
     "publisher": "Tenpi",
     "displayName": "Redberry",
     "description": "A cute red/pink/blue color theme. ",
-    "version": "0.0.3",
+    "version": "0.0.1",
     "engines": {
         "vscode": "^1.35.0"
     },
-    "icon": "./images/packagegirl.png",
+    "icon": "images/packagegirl.png",
     "galleryBanner": {
         "color": "#FF6BBF",
         "theme": "dark"
